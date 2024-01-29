@@ -1,5 +1,4 @@
-# Machine-Learning-Project
-Fake Currency Detection using Logistic Regression Algorithm
+# Fake currency Detection using Machine Learning
 
 ## About:
 Fake Currency Detection is a real problem for both individuals and businesses. Some are constantly finding new methods and techniques to produce counterfeit banknotes, which are essentially indistinguishable from real money. Atleast for human eyes.
