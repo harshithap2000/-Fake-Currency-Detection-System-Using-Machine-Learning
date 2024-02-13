@@ -32,4 +32,4 @@ data_banknote_authentication.txt
 7. Model validation using Confusion Matrix.
 8. Finally Prediction
 
-# Thank You.☻
+
